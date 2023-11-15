@@ -19,11 +19,11 @@ nav {
     height: 50px;
     margin: auto;
     background-color: white;
-    padding-left: 50px;
 }
 
 .button {
     margin-top: 10px;
+    margin-left: 20px;
     padding: 5px;
 }
 
@@ -34,4 +34,71 @@ nav {
 
 #button-section {
     color: gray;
+}
+
+main {
+    width: 800px;
+    height: 800px;
+    background-color: white;
+    margin: auto;
+    padding-top: 10px;
+}
+
+h3 {
+    margin-left: 20px;
+}
+
+p {
+    margin-left: 20px;
+}
+
+.true {
+    border: 5px;
+    border-radius: 5px;
+    border-color: rgb(0, 255, 0);
+    color: rgb(0, 255, 0);
+}
+
+.false {
+    color: red;
+}
+
+.main-button {
+    border-radius: 10px;
+}
+
+#editorial {
+    background-color: rgba(0, 165, 249, 1);
+    border-color: rgba(0, 165, 249, 1);
+    color: white;
+}
+
+#goals {
+    background-color: darkviolet;
+    border-color: darkviolet;
+    color: white;
+}
+
+#recruit {
+    background-color: green;
+    border-color: green;
+    color: white;
+}
+
+#mobile {
+    background-color: orange;
+    border-color: orange;
+    color: white;
+}
+
+#web {
+    background-color: violet;
+    border-color: violet;
+    color: white;
+}
+
+#sales {
+    background-color: greenyellow;
+    border-color: greenyellow;
+    color: white;
 }
