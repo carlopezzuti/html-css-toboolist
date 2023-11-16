@@ -53,13 +53,14 @@ p {
 }
 
 .true {
-    border: 5px;
-    border-radius: 5px;
-    border-color: rgb(0, 255, 0);
+    border-radius: 100%;
+    border: 1px solid rgb(0, 255, 0);
     color: rgb(0, 255, 0);
 }
 
 .false {
+    border-radius: 100%;
+    border: 1px solid red;
     color: red;
 }
 
